@@ -1,0 +1,5 @@
+git clone https://github.com/vollov/django-poll
+git remote add upstream https://github.com/vollov/django-poll
+git checkout -b step_01 upstream/master
+git commit
+git push origin step_01
